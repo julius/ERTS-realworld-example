@@ -1,3 +1,7 @@
+# BRANCH DEMO
+
+This branch contains some minor fixes to make the build work on the relative-path deployment target: https://julius.github.io/ERTS-realworld-example-demo/
+
 # ![RealWorld Example App](logo.png)
 
 > ### ERTS (Extremely Restrictive TypeScript) codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
