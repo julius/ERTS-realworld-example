@@ -1,0 +1,16 @@
+.Notifications {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 999;
+}
+.Notifications .notification {
+    margin: 10px 15px 0 0;
+    padding: 10px 20px;
+    border: 2px solid #5cb85c;
+    border-radius: 4px;
+    color: #5cb85c;
+    background: white;
+    box-shadow: 2px 2px 4px #111;
+    cursor: pointer;
+}

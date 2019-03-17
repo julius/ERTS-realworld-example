@@ -1,0 +1,39 @@
+{
+    "compilerOptions": {
+        "pretty": true,
+        "strictNullChecks": true,
+        "alwaysStrict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "strict": true,
+        "strictBindCallApply": true,
+        "strictFunctionTypes": true,
+        "strictPropertyInitialization": true,
+        "jsx": "react",
+        "lib": ["dom", "es2015", "es5"],
+        "skipLibCheck": false
+    },
+    "plugins": [
+        {
+            "name": "typescript-tslint-plugin",
+            "alwaysShowRuleFailuresAsWarnings": false,
+            "ignoreDefinitionFiles": true,
+            "configFile": "./tslint.json",
+            "suppressWhileTypeErrorsPresent": false,
+            "mockTypeScriptVersion": false
+        }
+    ],
+    "sideEffects": false,
+    "prettier": {
+        "useTabs": false,
+        "semi": false,
+        "tabWidth": 4,
+        "trailingComma": "all",
+        "bracketSpacing": true,
+        "jsxBracketSameLine": false,
+        "arrowParens": "always",
+        "singleQuote": false
+    }
+}

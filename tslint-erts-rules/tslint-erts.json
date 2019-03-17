@@ -1,0 +1,6 @@
+{
+    "rulesDirectory": ".",
+    "rules": {
+      "no-any-call-returns": false
+    }
+  }
