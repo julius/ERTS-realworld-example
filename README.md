@@ -3,7 +3,7 @@
 > ### ERTS (Extremely Restrictive TypeScript) codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
 
-### [TODO-Demo](https://github.com/gothinkster/realworld)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/gothinkster/realworld)
+### [Demo](https://julius.github.io/ERTS-realworld-example-demo/)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/gothinkster/realworld)
 
 
 This codebase was created to demonstrate a fully fledged fullstack application built with **ERTS** including CRUD operations, authentication, routing, pagination, and more.
